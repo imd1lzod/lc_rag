@@ -1,0 +1,41 @@
+=== BO'LIM 1: UMUMIY MA'LUMOTLAR VA LOKATSIYA ===
+O'quv markazi nomi: "Apex Academy" zamonaviy kasblar akademiyasi.
+Ish vaqti: Har kuni soat 09:00 dan 21:00 gacha. Yakshanba kuni ham markaz ochiq, lekin faqat self-study (mustaqil dars qilish) uchun soat 10:00 dan 18:00 gacha ishlaydi.
+Manzil va Lokatsiya: Toshkent shahri, Chilonzor tumani, Bunyodkor ko'chasi 42-uy. 
+Mo'ljal: Chilonzor metrosi chiqishi, "Gafur Gulom" istirohat bog'i ro'parasi.
+Aloqa telefoni: +998 (71) 200-00-00, Telegram bot: @apex_academy_bot.
+
+=== BO'LIM 2: KURSLAR, NARXLAR VA DAVOMIYLIGI ===
+KURS: Koreys tili (Eps-Topik va Topik)
+- Davomiyligi: 6 oy. Haftada 3 marta, 2 soatdan.
+- Oylik to'lovi: 650,000 so'm.
+- Kurs yakunida EPS-TOPIK imtihoniga to'liq tayyorgarlik ko'riladi va sertifikat beriladi.
+
+KURS: Web Dasturlash (Full-Stack JavaScript)
+- Davomiyligi: 9 oy (3 oy Frontend, 3 oy Backend, 3 oy Amaliy loyiha va Portfolioga ishlash).
+- Grafik: Haftada 3 marta, 2 soatdan dars + har kuni bepul mentorlik yordami.
+- Oylik to'lovi: 1,200,000 so'm.
+- Talab: Har bir talabaning shaxsiy noutbuki bo'lishi shart. Markazda kompyuter xonasi bor, lekin u faqat darsdan tashqari vaqtda mashq qilish uchun beriladi.
+
+KURS: English Foundation & IELTS
+- Davomiyligi: English Foundation (4 oy), IELTS graduation (5 oy). 
+- Grafik: Haftada 3 marta, 1.5 soatdan asosiy dars + haftada 1 marta bepul Speaking Club.
+- Oylik to'lovi: 700,000 so'm.
+
+=== BO'LIM 3: MARKAZNING ICHKI QOIDALARI VA TO'LOVLAR ===
+To'lov muddati: Oylik to'lov har oyning 5-sanasidan kechikmay amalga oshirilishi shart. Agar to'lov 5-sanagacha to'lanmasa, talaba darslarga kiritilmaydi.
+Chegirmalar: 
+1. Bir oiladan ikki kishi o'qisa, har biriga 10% dan doimiy chegirma beriladi.
+2. To'liq kurs uchun oldindan (full-payment) to'lov qilinsa, jami summadan 15% chegirma qilinadi.
+Dars qoldirish va Muzlatish (Freeze):
+Talaba kasallik sababli dars qoldirsa va shifokor ma'lumotnomasini (spravka) olib kelsa, o'sha qoldirilgan darslar puli keyingi oyga o'tkaziladi (muzlatiladi). Shunchaki sababsiz darsga kelmasa, pul qaytarilmaydi va darslar qayta o'tib berilmaydi.
+
+=== BO'LIM 4: TEZ-TEZ SO'RALADIGAN SAVOLLAR (FAQ) ===
+Savol: Kursni bitirgach diplom yoki sertifikat beriladimi?
+Javob: Ha, markazimiz davlat reyestridan o'tgan litsenziyaga ega. Kursni muvaffaqiyatli bitirgan (yakuniy imtihondan 70% dan baland ball olgan) barcha talabalarga rasmiy sertifikat topshiriladi.
+
+Savol: Yosh chegarasi bormi? Bolalar ham o'qisa bo'ladimi?
+Javob: Dasturlash va IELTS kurslarimizga 14 yoshdan boshlab qabul qilamiz. Koreys tili va English Foundation kurslariga esa 10 yoshdan boshlab o'quvchilar olinadi.
+
+Savol: Darslarni o'tkazib yuborgan talaba uchun qo'shimcha yordam bormi?
+Javob: Ha, markazimizda har kuni soat 10:00 dan 18:00 gacha "Mentorlik xizmati" ishlaydi. Darsga tushunmay qolgan yoki qoldirgan talabalar bepul mentorlar yordamida mavzuni o'zlashtirib olishlari mumkin.
